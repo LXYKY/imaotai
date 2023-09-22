@@ -13,7 +13,7 @@ ITEM_CODES = ['10213', '10214']
 # 例如： PUSH_TOKEN = '123456'
 ########################
 # 不填不推送消息，一对一发送
-PUSH_TOKEN = None
+PUSH_TOKEN = 17ec67cf32174437be9dce5414d3610c
 ########################
 
 # credentials 路径，例如：CREDENTIALS_PATH = /home/user/.imoutai/credentials
